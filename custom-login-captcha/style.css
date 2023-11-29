@@ -1,0 +1,9 @@
+/*HIDE REMEMBER ME*/
+.forgetmenot {
+    display: none !important;
+}
+
+input#wp-submit {
+    margin-bottom: 10px !important;
+}
+
